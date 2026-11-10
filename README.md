@@ -4,7 +4,7 @@ Microsoft 365 hands on lab in my own tenant
 
 I set up my own Microsoft 365 tenant and I am learning how to manage it hands on. This is lab practice to get ready for a helpdesk role. It is not work for a company.
 
-- Tenant — AlmaraatLLC.onmicrosoft.com
+- Tenant — testuser@yamothas.onmicrosoft.com
 - Admin user — justinsmith@yamothas.onmicrosoft.com
 - License shown in the admin center — Office 365 E5 (Non-Profit Pricing)
 - Where the work happens — Microsoft 365 admin center
@@ -13,8 +13,6 @@ I set up my own Microsoft 365 tenant and I am learning how to manage it hands on
 
 - [x] Step 0 — Created my own tenant and assigned the E5 license to my admin user
 - [ ] Module 1 — Created test users in the admin center, assigned licenses, and practiced password resets
-- [ ] Module 2 — Created a Team in Microsoft Teams and scheduled a meeting
-- [ ] Module 3 — Created Microsoft 365 Groups and explored Planner, Forms, and Power BI
 - [ ] Module 4 — Turned on multi-factor authentication (MFA) with Conditional Access and checked Secure Score and Defender
 - [ ] Module 5 — Checked licenses in Billing and assigned and removed a license
 
@@ -22,7 +20,6 @@ I set up my own Microsoft 365 tenant and I am learning how to manage it hands on
 
 - How to create a user and assign a license in Microsoft 365
 - How to reset a password and manage users in the admin center
-- How to use Teams and Groups for collaboration
 - How MFA and Conditional Access protect user sign-ins
   
 ## Screenshots
