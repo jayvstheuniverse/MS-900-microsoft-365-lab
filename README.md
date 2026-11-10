@@ -32,4 +32,4 @@ Lab steps are based on the CloudLabs-AI MS-900 lab at https://github.com/CloudLa
 
 ## Tools
 
-Microsoft 365 admin center, Microsoft Entra ID, Microsoft Teams, Windows 11
+Microsoft 365 admin center, Microsoft Entra ID and Windows 11
