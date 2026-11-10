@@ -11,7 +11,7 @@ I set up my own Microsoft 365 tenant and I am learning how to manage it hands on
 
 ## What I did
 
-- [x] Step 0 — Created my own tenant and assigned the E5 license to my admin user
+- [x] Step 1 — Created my own tenant and assigned the E5 license to my admin user
 - [ ] Module 1 — Created test users in the admin center, assigned licenses, and practiced password resets
 - [ ] Module 4 — Turned on multi-factor authentication (MFA) with Conditional Access and checked Secure Score and Defender
 - [ ] Module 5 — Checked licenses in Billing and assigned and removed a license
